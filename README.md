@@ -7,7 +7,7 @@ Olá , Meu nome é <strong> Cleverson !<strong>
   -----
 
 
-<img align="left"  width="500"  src="https://c.tenor.com/-iT3EoFjKLQAAAAd/jett-jump.gif" />
+<img align="left"  width="480"  src="https://c.tenor.com/-iT3EoFjKLQAAAAd/jett-jump.gif" />
  
 
 <div align= "right "display: inline-block"
