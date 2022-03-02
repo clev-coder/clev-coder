@@ -1,8 +1,8 @@
 ### Bem vindo ao meu perfil👋
 ----
 
-Olá , Meu nome é <strong> Cleverson !<strong>
-> Tenho 25 ANos .<br>  Engenheiro de softwere Java  💻
+Olá , Eu sou <strong> Cleverson !<strong>
+> Tenho 25 ANos .<br> Sou  Engenheiro de softwere Java  💻
 
   -----
 
