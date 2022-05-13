@@ -1,12 +1,12 @@
 ### Bem vindo ao meu perfil👋
 ----
 
-🌎 | Brasileiro 🇧🇷
-💻 | Desenvolvedor FullStack.
-👩🏽 | Pronome ele/dele.
-🧠 | Bootcamp Java fullStack Web Generation. 🎓 
-💖 | Apaixonado por Técnologia. 💻🔌
-🏫 | Cursando Analise e Desenvolvimento de Sistemas 👩🏽‍💻💻
+🌎 | Brasileiro 🇧🇷<br>
+💻 | Desenvolvedor FullStack.<br>
+👩🏽 | Pronome ele/dele.<br>
+🧠 | Bootcamp Java fullStack Web Generation. 🎓<br>
+💖 | Apaixonado por Técnologia. 💻🔌<br>
+🏫 | Cursando Analise e Desenvolvimento de Sistemas 👩🏽‍💻💻<br>
 🤝🏽 |  Deixando a criatividade levar 🚀
 
   -----
