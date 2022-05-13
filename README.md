@@ -1,8 +1,13 @@
 ### Bem vindo ao meu perfil👋
 ----
 
-Olá , Eu sou <strong> Cleverson !<strong>
-<br> Desenvolvedor fullStack Java  💻
+🌎 | Brasileiro 🇧🇷
+💻 | Desenvolvedor FullStack.
+👩🏽 | Pronome ele/dele.
+🧠 | Bootcamp Java fullStack Web Generation. 🎓 
+💖 | Apaixonado por Técnologia. 💻🔌
+🏫 | Cursando Analise e Desenvolvimento de Sistemas 👩🏽‍💻💻
+🤝🏽 |  Deixando a criatividade levar 🚀
 
   -----
 
