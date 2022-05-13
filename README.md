@@ -2,7 +2,7 @@
 ----
 
 Olá , Eu sou <strong> Cleverson !<strong>
-> Tenho 25 ANos .<br> Sou  Engenheiro de softwere Java  💻
+<br> Desenvolvedor fullStack Java  💻
 
   -----
 
