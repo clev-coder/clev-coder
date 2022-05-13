@@ -3,10 +3,10 @@
 
 🌎 | Brasileiro 🇧🇷<br>
 💻 | Desenvolvedor FullStack.<br>
-👩🏽 | Pronome ele/dele.<br>
+   | Pronome ele/dele.<br>
 🧠 | Bootcamp Java fullStack Web Generation. 🎓<br>
 💖 | Apaixonado por Técnologia. 💻🔌<br>
-🏫 | Cursando Analise e Desenvolvimento de Sistemas 👩🏽‍💻💻<br>
+🏫 | Cursando Analise e Desenvolvimento de Sistemas 💻💻<br>
 🤝🏽 |  Deixando a criatividade levar 🚀
 
   -----
