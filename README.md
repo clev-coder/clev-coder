@@ -2,7 +2,7 @@
 ----
 
 🌎 | Brasileiro 🇧🇷<br>
-💻 | Desenvolvedor FullStack.<br>
+💻 | Desenvolvedor JAVA FullStack .<br>
 🧠 | Bootcamp Java fullStack Web Generation. 🎓<br>
 💖 | Apaixonado por Técnologia. 💻🔌<br>
 🏫 | Cursando Analise e Desenvolvimento de Sistemas 💻💻<br>
