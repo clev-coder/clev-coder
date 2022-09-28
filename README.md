@@ -2,7 +2,7 @@
 ----
 
 🌎 | Brasileiro 🇧🇷<br>
-💻 | Desenvolvedor JAVA FullStack .<br>
+💻 | Data Engineer/ Python / Java / AWS/ Azure / Etl.<br>
 🧠 | Bootcamp Java fullStack Web Generation. 🎓<br>
 💖 | Apaixonado por Técnologia. 💻🔌<br>
 🏫 | Cursando Analise e Desenvolvimento de Sistemas 💻💻<br>
