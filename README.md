@@ -2,10 +2,10 @@
 ----
 
 🌎 | Brasileiro 🇧🇷<br>
-💻 | Data Engineer/ Python / Java / AWS/ Azure / Etl.<br>
+💻 | Data Engineer/ Python / SQL/PowerBi / Tableau / DataBricks / AWS/ Azure / Etl.<br>
 🧠 | Bootcamp Java fullStack Web Generation. 🎓<br>
 💖 | Apaixonado por Técnologia. 💻🔌<br>
-🏫 | Cursando Analise e Desenvolvimento de Sistemas 💻💻<br>
+🏫 | Cursando Banco de Dados 💻💻<br>
 🤝🏽 |  Deixando a criatividade levar 🚀
 
   -----
